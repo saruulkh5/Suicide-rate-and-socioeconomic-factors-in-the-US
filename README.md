@@ -8,6 +8,7 @@ This repository has following files:
 * test.py                 --> test script to test some functions
 * project_report.pdf      --> project report that explains the outcome
 * suicide_factors.ipynb   --> jupyter notebook that has exact same code that is python script
+* data                    --> data folder that has all csv format data
 
 ## Reproducing the results
 1) Change directory to data folder on row 488 in python script: <br /> dir_to_data_folder = "---change this directory to your data folder---"
